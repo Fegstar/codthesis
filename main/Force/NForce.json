@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-27T17:59:55",
+  "command": "abaqus cae noGUI=\"C:\\Users\\Ougbine\\N\\NEXTForce.py\" -- -odb \"C:\\Users\\Ougbine\\NChipInp.odb\"",
+  "odb": "C:\\Users\\ougbine\\NChipInp.odb",
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "Abaqus License Manager checked out the following license:\n\"cae\" from Flexnet server euler.mecasola.ec-lyon.fr\n<15 out of 16 licenses remain available>.\n",
+  "force_c": 620.54814867454,
+  "force_p": 186.7397867216922
+}

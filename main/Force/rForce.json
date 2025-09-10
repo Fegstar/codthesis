@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-27T17:58:57",
+  "command": "abaqus cae noGUI=\"C:\\Users\\Ougbine\\r\\rEXTForce.py\" -- -odb \"C:\\Users\\Ougbine\\rChipInp.odb\"",
+  "odb": "C:\\Users\\ougbine\\rchipInp.odb",
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "Abaqus License Manager checked out the following license:\n\"cae\" from Flexnet server euler.mecasola.ec-lyon.fr\n<15 out of 16 licenses remain available>.\n",
+  "force_c": 628.9259676886077,
+  "force_p": 198.30002224091257
+}
