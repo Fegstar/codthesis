@@ -109,9 +109,3 @@ Key JSON outputs
   - Avoid SciPy in Abaqus scripts or install SciPy into Abaqus Python
 - qpsolvers or cvxopt missing
   - Install with `python -m pip install "qpsolvers[cvxopt]"`
-
-## Notes
-Before publishing, remove company specific data, machine specific paths, or any content covered by NDA.
-
-## License
-Add a license file, for example MIT, BSD 3-Clause, or Apache 2.0.
