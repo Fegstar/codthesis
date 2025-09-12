@@ -72,7 +72,7 @@ Example locations to update:
    ```
 3. Extract forces
    ```bat
-   abaqus python "Coding\Force\AEXTForce.py" -- -odb "data\AChipInp.odb"
+   abaqus python "Coding\Force\EXTForce.py" -- -odb "data\AChipInp.odb"
    ```
 4. Build sensitivities
    ```bash
